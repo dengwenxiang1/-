@@ -1,0 +1,76 @@
+{
+  "description": "项目配置文件",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": false,
+    "preloadBackgroundData": true,
+    "minified": false,
+    "newFeature": false,
+    "coverView": true,
+    "nodeModules": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": false,
+    "useApiHook": false,
+    "useApiHostProcess": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.17.0",
+  "appid": "wxaec49090f26a384b",
+  "projectname": "%E6%88%91%E7%9A%84%E9%9F%B3%E4%B9%90",
+  "debugOptions": {
+    "hidedInDevtools": []
+  },
+  "scripts": {
+    "beforeCompile": ""
+  },
+  "staticServerOptions": {
+    "baseURL": "",
+    "servePath": ""
+  },
+  "isGameTourist": false,
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "plugin": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": []
+    }
+  }
+}
